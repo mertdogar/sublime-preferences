@@ -1,0 +1,4 @@
+{
+    // exposed jsbeautifier options
+    "indent_with_tabs": true
+}

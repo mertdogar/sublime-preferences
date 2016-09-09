@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS Colors",
+		"CSS3",
+		"DevastateMini",
+		"DocBlockr",
+		"FileDiffs",
+		"Git",
+		"Gitignore",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSX",
+		"Markdown Preview",
+		"Modific",
+		"Package Control",
+		"Pug",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-gjslint",
+		"SublimeLinter-jscs"
+	]
+}

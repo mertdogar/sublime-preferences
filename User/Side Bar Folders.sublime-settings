@@ -1,0 +1,131 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/vr"
+		},
+		{
+			"path": "/Users/home/Workspace/Vitrine"
+		},
+		{
+			"path": "/Users/home/Workspace/traxio/traxio"
+		},
+		{
+			"path": "/Users/home/Workspace/traxio/prod/traxio"
+		},
+		{
+			"path": "/Users/home/Workspace/traxio/prod/pedalboard.js"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/tartJS-TODO"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/s3drive"
+		},
+		{
+			"path": "/Users/home/Workspace/room-escape-turkey"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/read"
+		},
+		{
+			"path": "/Users/home/Workspace/push-service"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/openGraphScraper"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/opencv-test"
+		},
+		{
+			"path": "/Users/home/Workspace/nginx-proxy"
+		},
+		{
+			"path": "/Users/home/Workspace/multi"
+		},
+		{
+			"path": "/Users/home/Workspace/mpg123"
+		},
+		{
+			"path": "/Users/home/Workspace/mcapi2-node-examples/express"
+		},
+		{
+			"path": "/Users/home/Workspace/mailchimp-api-node"
+		},
+		{
+			"path": "/Users/home/Workspace/lodash-test"
+		},
+		{
+			"path": "/Users/home/Workspace/lockhunt-daemon-electron"
+		},
+		{
+			"path": "/Users/home/Workspace/lockhunt-daemon"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/lockhunt-control"
+		},
+		{
+			"path": "/Users/home/Workspace/lockhunt"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/line-mobile"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/line-components"
+		},
+		{
+			"path": "/Users/home/Workspace/line-api"
+		},
+		{
+			"path": "/Users/home/Workspace/kidstory"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/firmata"
+		},
+		{
+			"path": "/Users/home/Workspace/electron-test"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/dv-test"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/cup10-api"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/crawler"
+		},
+		{
+			"path": "/Users/home/Workspace/cote"
+		},
+		{
+			"path": "/Users/home/Workspace/bursaplise"
+		},
+		{
+			"path": "/Users/home/Workspace/broadcaster"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Workspace/bet"
+		},
+		{
+			"path": "/Users/home/Workspace/administration"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/home/Downloads/web"
+		}
+	]
+}
